@@ -20,6 +20,8 @@ padding:5px; /*avstand mellom bokskant og innhold*/
 }
 a{
   text-decoration:none;
+  color:#dd0000;/*rød*/
+  font-weigt:bold; /*fet skrift*/
 }
 a:hover{
  color:#880000; /*mørk rød*/ 
