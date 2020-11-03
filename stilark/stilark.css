@@ -19,8 +19,7 @@ border:1px solid #000000 /*svart*/
 padding:5px; /*avstand mellom bokskant og innhold*/
 }
 a{
-  color:#dd0000;/*rød*/
-  font-weigt:bold; /*fet skrift*/
+  text-decoration:none;
 }
 a:hover{
  color:#880000; /*mørk rød*/ 
