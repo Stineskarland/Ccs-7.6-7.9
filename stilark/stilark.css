@@ -18,5 +18,12 @@ background-color:#e7f1cc; /*lys grønn*/
 border:1px solid #000000 /*svart*/
 padding:5px; /*avstand mellom bokskant og innhold*/
 }
+a{
+  color:#dd0000;/*rød*/
+  font-weigt:bold; /*fet skrift*/
+}
+a:hover{
+ color:#880000; /*mørk rød*/ 
+}
 </body>
 </html>
