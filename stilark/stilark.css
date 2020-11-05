@@ -6,7 +6,6 @@
 <body>
 table{
 border-collapse:collapse;/* fjerner mellomrom mellom rader/kolonner*/
-border-style:solid;
 }
 th{
 background-color:#7cbe05; /* grønn*/
